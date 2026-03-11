@@ -1,0 +1,137 @@
+date,cut_name,imps_code,price
+2026-03-06,"3 Loin, strip, bnls, 0x1",0,1046.3
+2026-03-06,"Brisket, deckle-off, bnls",120,435.59
+2026-03-06,"Brisket, point/off, bnls",120A,745.18
+2026-03-06,Choice Cutout,CUTOUT,387.07
+2026-03-06,Choice Select Spread,CUTOUT,7.0
+2026-03-06,"Chuck, chuck tender",116B,434.94
+2026-03-06,"Chuck, clod tender",114F,728.05
+2026-03-06,"Chuck, clod, arm roast",114E,515.57
+2026-03-06,"Chuck, clod, top blade",114D,511.63
+2026-03-06,"Chuck, flap",116G,875.15
+2026-03-06,"Chuck, roll, lxl, neck/off",116A,514.41
+2026-03-06,"Chuck, roll, retail ready",916A,555.87
+2026-03-06,"Chuck, short rib",130,568.15
+2026-03-06,"Chuck, shoulder clod, trmd",114A,436.93
+2026-03-06,"Flank, flank steak",193,757.98
+2026-03-06,"Loin, ball-tip, bnls, heavy",185B,598.95
+2026-03-06,"Loin, bottom sirloin, flap",185A,982.74
+2026-03-06,"Loin, butt tender, trimmed",191A,1483.805
+2026-03-06,"Loin, short loin, 0x1",174,912.75
+2026-03-06,"Loin, sirloin, tri-tip, pld",185D,830.59
+2026-03-06,"Loin, strip, bnls, 0x1",180,888.37
+2026-03-06,"Loin, tndrloin, trmd, heavy",189A,1529.45
+2026-03-06,"Loin, top butt, boneless",184,639.92
+2026-03-06,Pectoral Meat,41,479.32
+2026-03-06,"Plate, Inside Skirt",121D,801.62
+2026-03-06,"Plate, Outside Skirt, pld",121E,1425.04
+2026-03-06,Primal Brisket,PRIMAL,309.57
+2026-03-06,Primal Chuck,PRIMAL,331.6
+2026-03-06,Primal Flank,PRIMAL,195.66
+2026-03-06,Primal Loin,PRIMAL,507.38
+2026-03-06,Primal Rib,PRIMAL,534.8
+2026-03-06,Primal Round,PRIMAL,349.18
+2026-03-06,Primal Short Plate,PRIMAL,284.51
+2026-03-06,"Rib, ribeye, bnls, heavy",112A,1169.08
+2026-03-06,"Rib, ribeye, lip-on, bn-in",109E,995.76
+2026-03-06,"Round, eye of round",171C,454.42
+2026-03-06,"Round, knuckle, peeled",167A,477.59
+2026-03-06,"Round, outside round",171B,459.055
+2026-03-06,"Round, top inside round",168,492.52
+2026-03-06,"Round, top inside, denuded",169,531.54
+2026-03-06,Select Cutout,CUTOUT,380.07
+2026-03-06,"Short Plate, short rib",123A,608.52
+2026-03-06,Total Loads,CUTOUT,45.0
+2026-03-09,"1 Round, bottom gooseneck",0,437.54
+2026-03-09,"Brisket, deckle-off, bnls",120,449.94
+2026-03-09,Choice Cutout,CUTOUT,390.66
+2026-03-09,Choice Select Spread,CUTOUT,9.43
+2026-03-09,"Chuck, chuck tender",116B,423.53
+2026-03-09,"Chuck, clod tender",114F,766.79
+2026-03-09,"Chuck, clod, arm roast",114E,503.21
+2026-03-09,"Chuck, clod, top blade",114D,541.48
+2026-03-09,"Chuck, flap",116G,868.725
+2026-03-09,"Chuck, roll, lxl, neck/off",116A,523.72
+2026-03-09,"Chuck, short rib",130,595.46
+2026-03-09,"Chuck, shoulder clod, trmd",114A,447.82
+2026-03-09,"Flank, flank steak",193,761.23
+2026-03-09,"Loin, ball-tip, bnls, heavy",185B,556.9
+2026-03-09,"Loin, bottom sirloin, flap",185A,997.61
+2026-03-09,"Loin, butt tender, trimmed",191A,1450.23
+2026-03-09,"Loin, short loin, 0x1",174,970.69
+2026-03-09,"Loin, sirloin, tri-tip",185C,577.56
+2026-03-09,"Loin, sirloin, tri-tip, pld",185D,834.15
+2026-03-09,"Loin, strip loin, 1x1",175,764.96
+2026-03-09,"Loin, strip, bnls, 0x1",180,1071.86
+2026-03-09,"Loin, top butt, boneless",184,638.28
+2026-03-09,Pectoral Meat,61,516.96
+2026-03-09,"Plate, Inside Skirt",121D,817.01
+2026-03-09,"Plate, Outside Skirt",121C,1098.84
+2026-03-09,"Plate, Outside Skirt, pld",121E,1512.91
+2026-03-09,Primal Brisket,PRIMAL,317.86
+2026-03-09,Primal Chuck,PRIMAL,338.39
+2026-03-09,Primal Flank,PRIMAL,196.82
+2026-03-09,Primal Loin,PRIMAL,512.73
+2026-03-09,Primal Rib,PRIMAL,532.19
+2026-03-09,Primal Round,PRIMAL,350.51
+2026-03-09,Primal Short Plate,PRIMAL,284.44
+2026-03-09,"Rib, ribeye, bnls, heavy",112A,1201.28
+2026-03-09,"Rib, ribeye, bnls, light",112A,1121.92
+2026-03-09,"Rib, ribeye, lip-on, bn-in",109E,1000.21
+2026-03-09,"Round, eye of round",171C,458.74
+2026-03-09,"Round, knuckle, peeled",167A,484.01
+2026-03-09,"Round, outside round",171B,484.96
+2026-03-09,"Round, top inside round",168,491.69
+2026-03-09,"Round, top inside, denuded",169,528.41
+2026-03-09,Select Cutout,CUTOUT,381.23
+2026-03-09,"Short Plate, short rib",123A,610.75
+2026-03-09,Total Loads,CUTOUT,21.0
+2026-03-10,"1 Round, bottom gooseneck",0,466.97
+2026-03-10,"3 Loin, strip, bnls, 0x1",0,1002.9875
+2026-03-10,"Brisket, deckle-off, bnls",120,454.7425
+2026-03-10,Choice Cutout,CUTOUT,396.145
+2026-03-10,Choice Select Spread,CUTOUT,9.06
+2026-03-10,"Chuck, chuck tender",116B,447.285
+2026-03-10,"Chuck, clod tender",114F,783.04
+2026-03-10,"Chuck, clod, arm roast",114E,570.255
+2026-03-10,"Chuck, clod, top blade",114D,573.99
+2026-03-10,"Chuck, flap",116G,902.48
+2026-03-10,"Chuck, roll, lxl, neck/off",116A,515.9033333
+2026-03-10,"Chuck, semi-bnls, neck/off",113C,448.0
+2026-03-10,"Chuck, short rib",130,599.375
+2026-03-10,"Chuck, shoulder clod",114,432.96
+2026-03-10,"Chuck, shoulder clod, trmd",114A,441.7366667
+2026-03-10,"Flank, flank steak",193,774.9633333
+2026-03-10,"Loin, ball-tip, bnls, heavy",185B,594.295
+2026-03-10,"Loin, bottom sirloin, flap",185A,1002.13
+2026-03-10,"Loin, butt tender, trimmed",191A,1431.1
+2026-03-10,"Loin, short loin, 0x1",174,933.5666667
+2026-03-10,"Loin, sirloin, tri-tip",185C,575.93
+2026-03-10,"Loin, sirloin, tri-tip, pld",185D,857.59
+2026-03-10,"Loin, tndrloin, trmd, heavy",189A,1513.9975
+2026-03-10,"Loin, top butt, boneless",184,652.945
+2026-03-10,Pectoral Meat,12,523.65
+2026-03-10,"Plate, Inside Skirt",121D,866.025
+2026-03-10,"Plate, Outside Skirt",121C,1145.145
+2026-03-10,"Plate, Outside Skirt, pld",121E,1465.37
+2026-03-10,Primal Brisket,PRIMAL,322.66
+2026-03-10,Primal Chuck,PRIMAL,340.315
+2026-03-10,Primal Flank,PRIMAL,202.825
+2026-03-10,Primal Loin,PRIMAL,520.28
+2026-03-10,Primal Rib,PRIMAL,551.94
+2026-03-10,Primal Round,PRIMAL,351.065
+2026-03-10,Primal Short Plate,PRIMAL,291.35
+2026-03-10,"Rib, ribeye, bnls, heavy",112A,1150.05
+2026-03-10,"Rib, ribeye, bnls, light",112A,1197.375
+2026-03-10,"Rib, ribeye, lip-on, bn-in",109E,1023.685
+2026-03-10,"Round, eye of round",171C,468.495
+2026-03-10,"Round, knuckle, peeled",167A,491.15
+2026-03-10,"Round, outside round",171B,471.5666667
+2026-03-10,"Round, top inside round",168,474.98
+2026-03-10,"Round, top inside, cap off",169A,605.75
+2026-03-10,"Round, top inside, denuded",169,550.595
+2026-03-10,Select Cutout,CUTOUT,387.085
+2026-03-10,"Short Plate, short rib",123A,629.2
+2026-03-10,Total Loads,CUTOUT,69.0
+2026-03-10,Pork Cutout,CUTOUT,96.32
+2026-03-09,Pork Cutout,CUTOUT,95.1
